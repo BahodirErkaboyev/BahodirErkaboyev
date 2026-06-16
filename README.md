@@ -1,16 +1,64 @@
 ## Hi there 👋
 
-<!--
-**BahodirErkaboyev/BahodirErkaboyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Bahodir
 
-Here are some ideas to get you started:
+🚀 Aspiring DevOps Engineer passionate about Linux, automation, and cloud technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💫 About Me
+
+* 🐧 Passionate about Linux and Open Source.
+* 📚 Continuously learning and building hands-on projects.
+* 🌱 Currently focused on DevOps, Cloud, and Infrastructure Automation.
+* 🎯 Goal: Become a skilled DevOps Engineer and contribute to reliable and scalable systems.
+
+## 🛠️ Technologies & Tools
+
+### Operating Systems
+
+* Linux (Ubuntu)
+
+### Programming & Scripting
+
+* Bash
+* Python
+
+### Version Control
+
+* Git
+* GitHub
+
+### Containers & Virtualization
+
+* Docker
+
+### CI/CD
+
+* GitHub Actions
+* GitLab CI/CD
+* Jenkins
+
+### Cloud & Infrastructure
+
+* AWS (Learning)
+* Terraform (Learning)
+* Ansible (Learning)
+
+### Monitoring & Logging
+
+* Prometheus (Learning)
+* Grafana (Learning)
+
+### Orchestration
+
+* Kubernetes (Learning)
+
+### Databases
+
+* PostgreSQL
+* MySQL
+
+## 📈 Current Focus
+
+Linux • Bash • Git • Docker • CI/CD • Kubernetes • Terraform • AWS
+
+⚡ "Automate Everything. Keep Learning. Build Reliable Systems."
